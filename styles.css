@@ -1,0 +1,42 @@
+h1{ text-align: center;
+  }
+#blub{
+    color: blue;
+    font-style: italic;
+}
+#crem{
+    color:chartreuse;
+    font-style: italic;
+}
+#oran{
+    color:darkorange;
+    font-style: italic;
+}
+#straw{
+    color: deeppink;
+    font-style: italic;
+}
+#van{
+    color: beige;
+    font-style: italic;
+}
+#menu{
+    text-align-last: right;
+    
+}
+table{
+    border-color: darkgray;
+}
+
+#menu{
+    width:100%;
+}
+
+#menu a{
+    font-family: Helvetica, sans-serif;
+    font-weight: 800;
+    padding-left: 20px;
+}
+#menu a:hover{
+    color:deepskyblue;
+}
